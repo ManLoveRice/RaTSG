@@ -24,7 +24,7 @@ pip install -r requirements.txt
 This paper has reconstructed the validation and test sets of two widely used datasets in the TSG domain: Charades-STA and ActivityNet Captions, to construct a testing environment for TSG-RF task., i.e., Charades-STA-RF, ActivityNet Captions-RF. The reconstructed dataset is located in the `./data/dataset` directory.
 
 ## Preparation
-The details about how to prepare the `Charades-STA`, `ActivityNet Captions` features are followed previous work: [VSLNet Datasets Preparation](https://github.com/26hzhang/VSLNet/tree/master/prepare). Alternatively, you can download the prepared visual features from  [Google Drive](https://drive.google.com/drive/folders/1Zp6ym7j6uNw3WCkTRQC2YmQ9LdWgQK4f?usp=sharing), and place them to the `./data/` directory.
+The details about how to prepare the `Charades-STA`, `ActivityNet Captions` features are followed previous work: [VSLNet Datasets Preparation](https://github.com/26hzhang/VSLNet/tree/master/prepare). Alternatively, you can download the prepared visual features from  [Google Drive](https://drive.google.com/drive/folders/1Zp6ym7j6uNw3WCkTRQC2YmQ9LdWgQK4f?usp=sharing), and place them to the `./data/features/` directory.
 Download the word embeddings from [here](http://nlp.stanford.edu/data/glove.840B.300d.zip) and place it to 
 `./data/features/` directory.
 
