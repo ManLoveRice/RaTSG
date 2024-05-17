@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # RaTSG
 Official pytorch repository for "Temporal Sentence Grounding in Videos with Relevance Feedback" 
 =======
+=======
+>>>>>>> remotes/origin/main
 # Temporal Sentence Grounding in Videos with Relevance Feedback
 This is implementation for the paper "Temporal Sentence Grounding in Videos with Relevance Feedback" 
 ![overview](/figures/overview.jpg)
@@ -56,4 +59,7 @@ We release several pretrained checkpoints, please download and put them into `./
 - RaTSG on Activitynet Captions-RF: [RaTSG_activitynet_RF_i3d_128](https://drive.google.com/drive/folders/1TQyojFEEhXsDg6GSChfGrmCcoKesigI5?usp=sharing)
 
 
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> remotes/origin/main
