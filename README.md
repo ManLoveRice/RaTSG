@@ -1,6 +1,6 @@
 # Temporal Sentence Grounding with Relevance Feedback in Videos
 This is implementation for the paper "Temporal Sentence Grounding with Relevance Feedback in Videos" 
-![overview](/figures/framework_RaTSG.jpg)
+![overview](/figures/framework-RaTSG.jpg)
 
 
 ## Table of Contents
