@@ -1,5 +1,5 @@
-# Temporal Sentence Grounding in Videos with Relevance Feedback
-This is implementation for the paper "Temporal Sentence Grounding in Videos with Relevance Feedback" 
+# Temporal Sentence Grounding with Relevance Feedback in Videos
+This is implementation for the paper "Temporal Sentence Grounding with Relevance Feedback in Videos" 
 ![overview](/figures/overview.jpg)
 
 
